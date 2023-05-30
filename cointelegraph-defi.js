@@ -107,3 +107,5 @@ async function getExplained(page) {
 
 // Start the scraping
 getQuotes();
+
+
